@@ -2,7 +2,6 @@
 ## calculated utilising caching in order to reduce the cost of the
 ## computation.
 
-## Write a short comment describing this function
 ## This function creates a special "matrix" object that can cache its inverse.
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
